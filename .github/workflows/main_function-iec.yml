@@ -39,4 +39,4 @@ jobs:
           app-name: 'function-iec'
           slot-name: 'Production'
           package: '${{ env.AZURE_FUNCTIONAPP_PACKAGE_PATH }}/output'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_39029F5D09C7492EA2AD630627E1228B }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_4FC8654142F544F89821FE5DC6EC7FCE }}
